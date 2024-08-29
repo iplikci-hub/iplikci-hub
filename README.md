@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iplikci-hub
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c++
+- 📫 How to reach me bertugyolcu09@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
