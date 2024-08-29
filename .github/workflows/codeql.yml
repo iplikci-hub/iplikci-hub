@@ -1,0 +1,36 @@
+#include <iostream>
+
+int main() {
+	using namespace std;
+
+	int notu;
+
+	cout << "Ders notunuzu giriniz. ( 1 ila 100 arasında olan notunuz)";
+	cin >> notu;
+
+	if (0 < notu && notu <= 50) {
+		cout << " F Aldiniz,birdahaki sefere daha iyi calıs mak dilegiyle " << endl;
+
+	}
+
+	else if (50 < notu && notu <= 70) {
+		cout << "C aldiniz ,iyi Denemeydi birdahakine daha guzel hedeflere dogru calismaniz gerekecek " << endl;
+
+	}
+
+	else if (70 < notu && notu <= 90) {
+		cout << " B aldiniz ,birdahakine daha iyi basarilarin dilegiyle " << endl;
+	}
+
+	else if (90 < notu && notu <= 100) {
+		cout << " S++ aldiniz helal hocam";
+	}
+
+	else
+		cout << "Yanlis sayi veya cumle icerdiniz tekrar deneyin.";
+
+
+
+
+	return 0;
+	}
